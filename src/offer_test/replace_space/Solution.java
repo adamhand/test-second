@@ -1,5 +1,8 @@
 package offer_test.replace_space;
 
+import java.util.Collection;
+import java.util.Collections;
+
 public class Solution {
     public String replaceSpace(StringBuffer str) {
         int oldLen = str.length();
