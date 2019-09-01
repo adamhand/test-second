@@ -22,7 +22,7 @@ public class QuickSort {
     private void qSort(int[] nums, int left, int right) {
         if (left < right) {
             int position = partition(nums, 0, right);
-            qSort(nums, left, position - 1)x                        ;
+            qSort(nums, left, position - 1);                       ;
             qSort(nums, position, right);
         }
     }
