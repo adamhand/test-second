@@ -22,7 +22,7 @@ public class QuickSort {
     private void qSort(int[] nums, int left, int right) {
         if (left < right) {
             int position = partition(nums, 0, right);
-            qSort(nums, left, position - 1);
+            qSort(nums, left, position - 1)x                        ;
             qSort(nums, position, right);
         }
     }
@@ -35,7 +35,7 @@ public class QuickSort {
         int[] nums = {9,6,7,8,0,6,5,3,4,1,2,3,5};
         new QuickSort().qSort(nums);
 
-        Arrays.stream(nums).forEach(a->{
+        Arrays.stream(nums).forEach(a -> {
             System.out.print(a + " ");
         });
     }
