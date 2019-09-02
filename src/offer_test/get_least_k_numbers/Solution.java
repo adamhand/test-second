@@ -26,5 +26,16 @@ public class Solution {
 
     public static void main(String[] args) {
         new Solution().GetLeastNumbers_Solution(new int[] {1,2,3}, 3);
+
+        String str1 = "flower";
+        String str2 = "";
+
+        System.out.println(str2.indexOf(str1));
+        System.out.println(str1.indexOf(str2));
+
+        StringBuilder sb = new StringBuilder();
+        sb.append("c");
+        sb.append("a");
+        System.out.println(sb.length());
     }
 }
