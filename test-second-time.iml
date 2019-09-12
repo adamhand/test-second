@@ -9,5 +9,10 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="json" level="project" />
     <orderEntry type="library" name="json-simple-1.1.1" level="project" />
+    <orderEntry type="library" name="guava-28.1-jre-javadoc" level="project" />
+    <orderEntry type="library" name="guava-28.1-jre-javadoc (2)" level="project" />
+    <orderEntry type="library" name="guava-28.1-jre-javadoc (3)" level="project" />
+    <orderEntry type="library" name="guava-28.1-jre-javadoc (4)" level="project" />
+    <orderEntry type="library" name="guava-28.1-jre" level="project" />
   </component>
 </module>
