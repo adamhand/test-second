@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7789e1db-6369-4ef4-ad28-ca955c828465" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/scaner_test/ImplementGenericHashmap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scaner_test/InsertNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scaner_test/Main00.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scaner_test/Main01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scaner_test/Main02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scaner_test/Main03/Main03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scaner_test/Main03/Main04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/scaner_test/Main03/Main05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test-second-time/thread/print_numbers/PrintNumberThread2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/test-second-time/thread/print_numbers/PrintNumberThread2.class" afterDir="false" />
-    </list>
+    <list default="true" id="7789e1db-6369-4ef4-ad28-ca955c828465" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +13,13 @@
     <session id="644213547">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="9" />
+          <entry key="java" value="10" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="9" />
+          <entry key="JAVA" value="10" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
@@ -48,26 +37,17 @@
         <counts>
           <entry key="project.closed" value="9" />
           <entry key="project.open.time.14" value="1" />
-          <entry key="project.open.time.15" value="2" />
+          <entry key="project.open.time.15" value="3" />
           <entry key="project.open.time.16" value="3" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.24" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/thread/print_numbers/PrintNumberThread1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/thread/print_numbers/PrintNumberThread2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -143,15 +123,24 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scaner_test/InsertNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-705">
+            <state relative-caret-position="20">
               <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
               <folding>
                 <element signature="e#120#121#0" expanded="true" />
                 <element signature="e#152#153#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/thread/thread_unsafe_example/ThreadUnsafeExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="220">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -193,7 +182,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="150" />
     <option name="y" value="130" />
     <option name="width" value="1940" />
@@ -225,14 +214,7 @@
               <item name="test-second" type="b2602c69:ProjectViewProjectNode" />
               <item name="test-second" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scaner_test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="test-second" type="b2602c69:ProjectViewProjectNode" />
-              <item name="test-second" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="scaner_test" type="462c0819:PsiDirectoryNode" />
-              <item name="ImplementGenericHashmap.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="thread" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -370,16 +352,17 @@
       <workItem from="1569982806150" duration="1381000" />
       <workItem from="1569997763277" duration="1855000" />
       <workItem from="1570066029960" duration="131000" />
+      <workItem from="1573289620476" duration="254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18904000" />
+    <option name="totallyTimeSpent" value="19158000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28954422" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2935657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -562,12 +545,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scaner_test/InsertNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-705">
+        <state relative-caret-position="20">
           <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
           <folding>
             <element signature="e#120#121#0" expanded="true" />
             <element signature="e#152#153#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/thread/thread_unsafe_example/ThreadUnsafeExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
